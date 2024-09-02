@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001714026042",
+    "project_id": "chatwave-79b68",
+    "storage_bucket": "chatwave-79b68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001714026042:android:cfbffcd538629750e0d703",
+        "android_client_info": {
+          "package_name": "com.example.chat_wave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIP-fD-nxmt7jGiXU2vw0LTS6DVLmLp-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
