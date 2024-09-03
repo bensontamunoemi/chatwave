@@ -1,4 +1,4 @@
-import 'package:chat_wave/screens/chart.dart';
+import 'package:chat_wave/screens/chat.dart';
 import 'package:chat_wave/screens/splash.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
