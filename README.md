@@ -20,7 +20,7 @@ Chat Wave is a modern, real-time messaging application built using Flutter. It i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repository/chat-wave.git
+git clone https://github.com/bensontamunoemi/chatwave.git
 cd chat-wave
 ```
 
